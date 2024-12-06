@@ -1,1 +1,3 @@
-let age:number = 20;
+let age = 20;
+let subject = "nepali"
+console.log(age)
